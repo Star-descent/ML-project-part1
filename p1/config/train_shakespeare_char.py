@@ -1,6 +1,6 @@
 # One run: choose an optimizer, its learning rate, and an output folder.
-optimizer_name = 'adamw'        # 'adamw', 'muon', or 'sgdm'
-out_dir = 'runs/adamw-default'
+optimizer_name = 'sgdm'        # 'adamw', 'muon', or 'sgdm'
+out_dir = 'runs/sgdm-default'
 
 # Default learning rates. Edit the one for your chosen optimizer.
 learning_rate = 3e-4            # AdamW
